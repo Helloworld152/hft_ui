@@ -1,6 +1,8 @@
 # HFT-UI
 
 C++ 交易引擎 (hft_eb) 的可视化与数据持久化中台。
+<img width="3400" height="1770" alt="image" src="https://github.com/user-attachments/assets/eb61a25c-edd7-444d-891e-708a280ef821" />
+
 
 ## 架构
 
